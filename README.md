@@ -27,8 +27,8 @@ Demo for python console app (browserless) using MSAL Authentication. Based on [P
 3. A Microsoft Graph query will be excecute to return a json object of a manager's email.
 
 e.g. 
-The query exexcuted in the backend: `https://graph.microsoft.com/v1.0/users/MiriamG@M365x214355.onmicrosoft.com/manager`
-Terminal output:
+* The query exexcuted in the backend: `https://graph.microsoft.com/v1.0/users/MiriamG@M365x214355.onmicrosoft.com/manager`
+* Terminal output:
 <p align="center">
   <img src="resources/output.png"/>
 </p>
@@ -41,8 +41,5 @@ In your azure portal, under Home > App Registraions > API Permissions, the permi
 <p align="center">
   <img src="resources/api_permissions.png"/>
 </p>
-
-`pip install -r requirements.txt`
-
 
 
